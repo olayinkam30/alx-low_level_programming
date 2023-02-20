@@ -1,7 +1,7 @@
 #include <unistd.h>
 #include <stdio.h>
 /**
- * nain - Entry point
+ * main - Entry point
  * Description: prints lowercase alphabet in reverse
  * Return: Always 0 (Success)
  */
